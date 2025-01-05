@@ -9,6 +9,9 @@ Currently, two official plugins are available:
 
 - There,we generally perform a crud operaion.
 
+- #Redux Toolkit
+  ===============
+
 output:-
 =======
 
